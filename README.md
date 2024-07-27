@@ -15,7 +15,7 @@ A microphone array consisting of multiple microphones positioned in a circular o
 
 ### Raspberry Pi
 - A Raspberry Pi single-board computer serves as the main processing unit.
-- Utilized libraries like Python's `PyAudio` for audio processing.
-- Optimize algorithms and computations for the Raspberry Pi's resource constraints.
+- Utilized libraries like Python's `PyAudio` for audio processing, `Matplotlib` and `Numpy` for data visualization graphs. 
+- Optimized algorithms and computations for the Raspberry Pi's resource constraints.
 
 
